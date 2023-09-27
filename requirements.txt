@@ -1,0 +1,17 @@
+ctcdecode==1.0.3
+editdistance==0.6.2
+einops==0.6.1
+librosa==0.10.0.post2
+matplotlib==3.7.1
+numpy==1.24.3
+opencv_python==4.7.0.72
+pesq==0.0.4
+Pillow==9.4.0
+pypesq==1.2.4
+pystoi==0.3.3
+scipy==1.10.1
+sentencepiece==0.1.99
+soundfile==0.12.1
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2

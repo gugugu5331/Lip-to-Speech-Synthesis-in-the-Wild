@@ -1,0 +1,7 @@
+data/checkpoints/
+output/
+runs/
+__pycache__/
+data/LRS2/LRS2_crop/*.txt
+data/LRS3/LRS3_crop/*.txt
+test*.txt
