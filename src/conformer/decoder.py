@@ -16,7 +16,7 @@ import torch.nn as nn
 from torch import Tensor
 from typing import Tuple
 
-from conformer.modules import Linear
+from modules import Linear
 
 
 class DecoderRNNT(nn.Module):

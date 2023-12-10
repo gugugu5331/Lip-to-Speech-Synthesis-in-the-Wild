@@ -19,8 +19,8 @@ from torch import Tensor
 import sys
 sys.path.append('./src')
 
-from conformer.activation import Swish
-from conformer.modules import Linear
+from .activation import Swish
+from .modules import Linear
 
 
 class FeedForwardModule(nn.Module):

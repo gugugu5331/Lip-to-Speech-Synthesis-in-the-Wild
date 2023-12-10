@@ -16,9 +16,9 @@ import torch
 import torch.nn as nn
 from torch import Tensor
 
-from conformer.decoder import DecoderRNNT
-from conformer.encoder import ConformerEncoder
-from conformer.modules import Linear
+from decoder import DecoderRNNT
+from encoder import ConformerEncoder
+from modules import Linear
 
 
 class Conformer(nn.Module):
